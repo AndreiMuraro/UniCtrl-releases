@@ -1,6 +1,6 @@
 # UniCtrl — versões
 
-Aqui ficam só os executáveis publicados do **UniCtrl** (KVM por software: um mouse, um teclado e o fone passando entre Windows e Linux ao arrastar o cursor para a borda da tela).
+Aqui ficam só os executáveis publicados do **UniCtrl**.
 
 Versão atual: **0.2.0**. Baixe (clique no arquivo e depois em *Download raw*):
 
