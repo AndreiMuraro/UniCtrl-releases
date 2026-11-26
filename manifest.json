@@ -1,21 +1,21 @@
 {
-  "version": "0.2.4",
-  "min_version": "0.2.4",
+  "version": "0.2.5",
+  "min_version": "0.2.5",
   "channel": "stable",
-  "issued": "2026-11-26T15:24:46Z",
+  "issued": "2026-11-26T17:42:47Z",
   "killed": false,
   "killed_versions": [],
   "download_url": "https://github.com/AndreiMuraro/UniCtrl-releases",
   "platforms": {
     "linux-x86_64": {
-      "url": "https://raw.githubusercontent.com/AndreiMuraro/UniCtrl-releases/main/bin/unictrl-0.2.4-linux-x86_64",
-      "sha256": "ac35dfa6034c71481df253e498f5fad99b025f70986341062968ddee99028fb6",
-      "size": 1696464
+      "url": "https://raw.githubusercontent.com/AndreiMuraro/UniCtrl-releases/main/bin/unictrl-0.2.5-linux-x86_64",
+      "sha256": "d6768940fe9b110505938aa7a8dd60065c0c9e366973dac06048709ec13c2db1",
+      "size": 1725136
     },
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/AndreiMuraro/UniCtrl-releases/main/bin/unictrl-0.2.4-windows-x86_64.exe",
-      "sha256": "12be3bc9f35aa04c1688292facb743a227dd8e7ae88895034f009f24382eb992",
-      "size": 1588224
+      "url": "https://raw.githubusercontent.com/AndreiMuraro/UniCtrl-releases/main/bin/unictrl-0.2.5-windows-x86_64.exe",
+      "sha256": "12edac1ce85a5d37b58d435f5353ab95ba2845428e74a72b5ed902a815b6e299",
+      "size": 1616384
     }
   }
 }
